@@ -1,45 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Sahibdeep Singh",
+    "occupation": "building happening",
+    "description": "Research,Code,Sleep,Repeat->",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Sahib! Build coding as my passion when I was in my 9th grade and since then I have been learning and building new things. I am a Full Stack Developer with a Bachelor's Degree in Computer Science and Engineering. I am a self-taught developer and I love to learn new things. I am a quick learner and I am always ready to learn new technologies. I am a team player and I love to work in a team. I am a good communicator and I can communicate with people very easily. I am a good problem solver and I can solve problems very easily. I am a good listener and I can listen to people very easily. I am a good leader and I can lead a team very easily. I am a good learner and I can learn new things very easily. I am a good teacher and I can teach people very easily. I am a good mentor and I can mentor people very easily. I am a good friend and I can be a good friend to people very easily. I am a good person and I can be a good person to people very easily.",
+    "contactmessage": "Get in touch with me to be a part of the happening team",
+    "email": "sahibdeepsinghj@gmail.com",
+    "phone": "+91 8968125362",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Nagkalan",
+      "city": "Amritsar",
+      "state": "Punjab",
+      "zip": "143601"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.ishappening.live",
+    "resumedownload": "/",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/channel/UCS1waYQ3F0WKPVUn1D_GtYA",
         "className": "fa fa-youtube"
       },
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/sahibdeepsingh_17",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/sahibxdeep/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/sahibdeepsinghjudge",
         "className": "fa fa-github"
       }
     ]
@@ -48,24 +43,24 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Guru Nanak Dev University - India",
+        "degree": "Bachelor's Degree, Computer Science and Engineering",
+        "graduated": "July 2025",
+        "description": "Graduated with First Division"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Busineswise",
+        "title": "Backend/Frontend Developer",
+        "years": "Dec 2022 - Present",
+        "description": "Made B2b simpler and efficient for the clients and the company"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "40%"
       },
       {
         "name": "Python",
@@ -73,15 +68,15 @@
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "60%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "60%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "80%"
       }
     ]
   },
@@ -106,17 +101,6 @@
         "url": "https://youtu.be/QaYts9sPmcY"
       }
     ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
-      }
-    ]
   }
+  
 }
